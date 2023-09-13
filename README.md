@@ -9,5 +9,5 @@ In this repository you can find 11 HTML, CSS and JACASCRIPT projects:
 7. Navbar Menu
 8. Sidebar Menu
 9. Background Video
-10.Q&A section
+10. Q&A section
 11. Counter
